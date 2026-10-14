@@ -1,0 +1,9 @@
+{
+  "name": "GanadoCare - Finca La Esperanza",
+  "description": "Software integral de gestión ganadera, sanidad, pesaje y trazabilidad animal en campo con funcionamiento offline.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
